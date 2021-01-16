@@ -2,7 +2,8 @@ Requires [pyautogui](https://pypi.org/project/PyAutoGUI/)
 
 # LeagueOfLazy
 Program that goes through league of legends champ select for you. 
-"gotta poop brb"
+
+Demo of it working is [here](https://my-botlane.fucked-me.today/4E3e5f5.mp4)
 
 This uses python and pyautogui to click on the icons shown on screen to go thorugh champion select, other than locking in
 
