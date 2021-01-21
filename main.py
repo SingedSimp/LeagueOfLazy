@@ -3,8 +3,8 @@ from time import sleep
 import sys
 global ban
 global champion
-champion = 'singed'
-ban = 'nasus'
+champion = prompt(text='Type the champion you would like to select', title='Leauge of Lazy')
+ban = prompt(text='Type the champion you would like to ban', title='Leauge of Lazy')
 def champSelect():
     pag.click('box.png')
     pag.move(850, -725)
